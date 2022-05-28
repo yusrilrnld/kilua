@@ -1,26 +1,26 @@
 {
   "APIs": {
-    "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "zenz": "https://api.zeks.xyz",
+    "apikey": "apivinz"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "mute": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 25,
+    "limitGame": 25
   },
   "sessionName": {
     "legacy": "/database/killua-legacy.json",
     "multi": "/database/killua-multi.json"
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "zeks",
+    "author": "https://api.zeks.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6282252875751"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "Powered by yusril"
 }
